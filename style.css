@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(201, 153, 190);
+    color: rgb(28, 7, 211);
+}
+h3{
+    text-align: center;
+}
+a{
+    color: darkblue;
+}
+.primeiro-titulo{
+    color: black;
+    text-align: left;
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+
+}
+.segundo-titulo{
+    color: orangered;
+    text-align: right;
+    
+}
+header{
+    color: rgb(112, 6, 71);
+    background-color: rgb(0, 255, 64);
+}
