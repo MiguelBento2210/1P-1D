@@ -7,6 +7,9 @@ h3{
 }
 a{
     color: darkblue;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 24px;
 }
 .primeiro-titulo{
     color: black;
@@ -18,10 +21,16 @@ a{
 }
 .segundo-titulo{
     color: orangered;
-    text-align: right;
+    text-align: center;
     
 }
 header{
     color: rgb(112, 6, 71);
     background-color: rgb(0, 255, 64);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a:hover {
+    color: cornflowerblue;
 }
