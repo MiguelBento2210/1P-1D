@@ -22,6 +22,9 @@ a{
 .segundo-titulo{
     color: orangered;
     text-align: center;
+    background-color: yellow;
+    margin: 20px;
+    padding: 20px;
     
 }
 header{
@@ -33,4 +36,7 @@ header{
 }
 a:hover {
     color: cornflowerblue;
+}
+section{
+    display: flex;
 }
